@@ -11,7 +11,7 @@ $result = mysqli_query($conn, "SELECT * FROM students");
 <!DOCTYPE html>
 <html>
 <head>
-    <title>View Students</title>
+    <title>view Students</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body class="bg-light">
